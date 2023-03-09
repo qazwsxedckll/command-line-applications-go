@@ -1,0 +1,13 @@
+go 1.20
+
+use (
+	./fileSystem/walk
+	./firstProgram/wc
+	./interacting/todo
+	./performance/colStats
+	./processes/goci
+	./processes/goci/testdata/tool
+	./processes/goci/testdata/toolErr
+	./processes/goci/testdata/toolFmtErr
+	./workingFiles/mdp
+)
